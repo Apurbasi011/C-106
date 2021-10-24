@@ -1,0 +1,51 @@
+body {
+
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    background: linear-gradient(#8A2387 0%, #E94057 50%, #F27121 100%);
+   
+
+}
+
+
+
+button {
+
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+
+
+h3
+{
+
+    font-size: 23px;
+    color: white;
+
+}
+
+h2 
+{
+
+    color: white;
+
+}
+
+p
+{
+    color: white;  
+}
+
+h4 
+{
+
+    font-size: 17px;
+    color: white;
+
+}
+
